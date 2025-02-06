@@ -11,7 +11,7 @@
 <br>
 
 
-<h3 align="left">Languajes y herramientas que domino:</h3>
+<h3 align="left">Lenguajes y herramientas que domino:</h3>
 <a><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
 <a><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /></a>
