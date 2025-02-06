@@ -11,7 +11,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p><img align="right" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" /></p>
 <br>
 
 <h3>Statistical Data :-</h3>
