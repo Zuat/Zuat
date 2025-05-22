@@ -3,10 +3,10 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 😎 Actualmente he termiando mi carrera universitaria como Ingeniero Civil en Informática
+- 😎 Actualmente he terminado mi carrera universitaria como Ingeniero Civil en Informática
       y estoy buscando nuevos desafíos para aumentar mis conocimientos. 
 
-- 📫 Me puedes contactar al corrreo:  **benjamin.basualto2001@alumnos.ubiobio.cl**
+- 📫 Me puedes contactar al corrreo:  **bjbasualto@gmail.com**
 
 <br>
 
